@@ -1,4 +1,4 @@
-"use client ";
+"use client";
 import React, { useEffect, useState } from "react";
 import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs";
 import { useKindeBrowserClient } from "@kinde-oss/kinde-auth-nextjs";
